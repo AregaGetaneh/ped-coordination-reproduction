@@ -1,0 +1,60 @@
+{
+ "pid": "virum",
+ "leader": "VI-C",
+ "leader_binding_export_share": 0.2623318430050297,
+ "bind_steps": 111,
+ "capped_steps": 111,
+ "agent_gains": true,
+ "rows": [
+  {
+   "case": "base",
+   "frac": 1.0,
+   "cong_pay_kEUR": 2.7447665286616294,
+   "exp_rev_kEUR": 5.742047586252205,
+   "bill_kEUR": 17.019476413033512,
+   "community_cost_kEUR": 50.656176236992856,
+   "curt_MWh": 164.77749098599293,
+   "tau_mean_bind": 0.03998175149142709,
+   "bind_steps": 111
+  },
+  {
+   "case": "90%",
+   "frac": 0.9,
+   "cong_pay_kEUR": 2.470055975228936,
+   "exp_rev_kEUR": 5.2513962591250785,
+   "bill_kEUR": 17.016218335075855,
+   "delta_bill_kEUR": -0.0032580779576569796,
+   "delta_bill_pct_of_base_bill": -0.019143232603571425,
+   "community_cost_kEUR": 50.65617623846411,
+   "curt_MWh": 164.78333833223243,
+   "tau_mean_bind": 0.03997799994207043,
+   "bind_steps": 110
+  },
+  {
+   "case": "80%",
+   "frac": 0.8,
+   "cong_pay_kEUR": 2.1953853914883683,
+   "exp_rev_kEUR": 4.7616558277717855,
+   "bill_kEUR": 17.012993221923104,
+   "delta_bill_kEUR": -0.006483191110408626,
+   "delta_bill_pct_of_base_bill": -0.03809277649366345,
+   "community_cost_kEUR": 50.656179471768944,
+   "curt_MWh": 164.79140478472348,
+   "tau_mean_bind": 0.03997402825627971,
+   "bind_steps": 110
+  },
+  {
+   "case": "70%",
+   "frac": 0.7,
+   "cong_pay_kEUR": 1.9207356369610356,
+   "exp_rev_kEUR": 4.269591365491424,
+   "bill_kEUR": 17.009886623463697,
+   "delta_bill_kEUR": -0.009589789569815821,
+   "delta_bill_pct_of_base_bill": -0.056345972914137135,
+   "community_cost_kEUR": 50.656180184612346,
+   "curt_MWh": 164.8002879870266,
+   "tau_mean_bind": 0.03996936550473173,
+   "bind_steps": 110
+  }
+ ]
+}

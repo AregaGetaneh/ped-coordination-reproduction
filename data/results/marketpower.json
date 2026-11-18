@@ -1,0 +1,76 @@
+{
+ "rows": [
+  {
+   "pid": "virum",
+   "n_agents": 4,
+   "largest": "VI-C",
+   "pv_share": 0.2807017543859649,
+   "export_share_binding": 0.2623318430050297,
+   "hhi": 0.2507674853807198,
+   "cong_payment_kEUR": 2.7447665286616347,
+   "bill_kEUR": 17.01947641303349,
+   "dev_gain_bound_pct": 16.127208981350897,
+   "bind_hours_rep": 111
+  },
+  {
+   "pid": "limerick",
+   "n_agents": 6,
+   "largest": "LK-R1",
+   "pv_share": 0.27118644067796605,
+   "export_share_binding": 0.19452638415633464,
+   "hhi": 0.16804673550981114,
+   "cong_payment_kEUR": 3.0914229687495047,
+   "bill_kEUR": 19.531839646236214,
+   "dev_gain_bound_pct": 15.827607766302863,
+   "bind_hours_rep": 104
+  },
+  {
+   "pid": "vasteras",
+   "n_agents": 4,
+   "largest": "VA-R",
+   "pv_share": 0.31683168316831684,
+   "export_share_binding": 0.2743993242336034,
+   "hhi": 0.2508210898277574,
+   "cong_payment_kEUR": 1.8352756080079953,
+   "bill_kEUR": 14.698017920846253,
+   "dev_gain_bound_pct": 12.48655170983985,
+   "bind_hours_rep": 134
+  },
+  {
+   "pid": "graz",
+   "n_agents": 4,
+   "largest": "GB-2",
+   "pv_share": 0.2990654205607477,
+   "export_share_binding": 0.27583993886918745,
+   "hhi": 0.2523289043680763,
+   "cong_payment_kEUR": 3.0347719024148163,
+   "bill_kEUR": 22.611836201355302,
+   "dev_gain_bound_pct": 13.421165248989903,
+   "bind_hours_rep": 108
+  },
+  {
+   "pid": "turkey",
+   "n_agents": 3,
+   "largest": "TR-1",
+   "pv_share": 0.5423728813559322,
+   "export_share_binding": 0.44060007762978504,
+   "hhi": 0.3518592872136236,
+   "cong_payment_kEUR": 1.0780915560356308,
+   "bill_kEUR": 12.241271685605108,
+   "dev_gain_bound_pct": 8.807022535929761,
+   "bind_hours_rep": 52
+  },
+  {
+   "pid": "romania",
+   "n_agents": 3,
+   "largest": "RO-2",
+   "pv_share": 0.3846153846153846,
+   "export_share_binding": 0.3422270054862955,
+   "hhi": 0.3334545650318821,
+   "cong_payment_kEUR": 2.3420883410943496,
+   "bill_kEUR": 29.550134304230838,
+   "dev_gain_bound_pct": 7.925812847351497,
+   "bind_hours_rep": 114
+  }
+ ]
+}
